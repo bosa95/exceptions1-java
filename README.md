@@ -10,4 +10,4 @@
 erro</br> 
 • A lógica fica estruturada em condicionais aninhadas
 
-**Solução 3 (boa): **tratamento de exceções
+**Solução 3 (boa):** tratamento de exceções
