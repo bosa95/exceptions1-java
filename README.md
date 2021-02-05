@@ -1,4 +1,4 @@
-Solução 1 (muito ruim): 
+Solução 1 (muito ruim):</br> 
 • Lógica de validação no programa principal
 • Lógica de validação não delegada à reserva
 
