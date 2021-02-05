@@ -1,9 +1,7 @@
-Solução 1 (muito ruim):</br> 
-• Lógica de validação no programa principal</br> 
+**Bold**Solução 1 (muito ruim): lógica de validação no programa principal</br> 
 • Lógica de validação não delegada à reserva
 
-Solução 2 (ruim): </br> 
-• Método retornando string </br> 
+**Bold**Solução 2 (ruim): método retornando string </br> 
 • A semântica da operação é prejudicada</br> 
 • Retornar string não tem nada a ver com atualização de reserva</br> 
 • E se a operação tivesse que retornar um string?</br> 
@@ -12,5 +10,4 @@ Solução 2 (ruim): </br>
 erro</br> 
 • A lógica fica estruturada em condicionais aninhadas
 
-Solução 3 (boa): </br> 
-• Tratamento de exceções
+**Bold**Solução 3 (boa): tratamento de exceções
